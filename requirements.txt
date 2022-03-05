@@ -1,0 +1,5 @@
+opencv-contrib-python==4.5.5.62
+mtcnn==0.1.0
+numpy==1.18.5
+imutils==0.5.3
+face-detection==0.2.2
